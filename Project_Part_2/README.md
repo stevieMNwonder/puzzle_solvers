@@ -1,4 +1,6 @@
-#note: still trying to figure out how to implement the algorithms. Have been very busy lately
+#constraint satisfaction problems. Futoshiki and CrossMath solvers
+
+##note: still trying to figure out how to implement the algorithms. Have been very busy lately
 ##instructions
 
 1. simply run the file to start it. Or you can use the command csp_solver to initiate the program.
