@@ -1,3 +1,5 @@
+#maze solver -- tree search vs. graph search
+
 #Instructions
 To run my code for part 3, you will need to open up the file in a shell.
 
