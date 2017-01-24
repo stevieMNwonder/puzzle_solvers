@@ -1,4 +1,4 @@
-# repo-frisb043
+# breadth first search sudoku solver
 To run the file just open it. If that for some reason doesn't work you can use the function sudoku_solver() to run the file.
 
 Enter in 6 or 9 based on the size of the sudoku board that you want to enter. Then enter in each row one by one.
